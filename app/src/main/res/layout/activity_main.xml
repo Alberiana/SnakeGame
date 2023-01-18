@@ -63,6 +63,7 @@
                 android:background="#2D49D6"
                 android:src="@drawable/left_arrow"/>
             <androidx.appcompat.widget.AppCompatImageButton
+                android:layout_marginStart="88dp"
                 android:id="@+id/rightBtn"
                 android:layout_width="80dp"
                 android:layout_height="50dp"
